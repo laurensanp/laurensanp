@@ -15,4 +15,3 @@ Ich interessiere mich für **Softwareentwicklung**, **Automatisierung** und **k�
 ## 📫 Kontakt
 - ✉️ laurens.andre.petzold@gmail.com
 - 💼 https://github.com/laurensanp
----
