@@ -1,16 +1,18 @@
-## Hi there 👋
+# Okay Garmin. Öffne README.md .
 
-<!--
-**laurensanp/laurensanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich interessiere mich für **Softwareentwicklung**, **Automatisierung** und **künstliche Intelligenz**.
+---
+## 🚀 Was ich mache
+- Projekte rund um **Machine Learning** und **lokale Sprachassistenten**
+- Automatisierung von Prozessen
+- Experimente mit neuen Technologien
+---
+## 🔧 Tech-Stack
+- `Python` | & | `JavaScript`
+- Machine Learning & KI
+- Tools: Git, Windows, Cursor (kein Vibecoder)
+---
+## 📫 Kontakt
+- ✉️ laurens.andre.petzold@gmail.com
+- 💼 https://github.com/laurensanp
+---
