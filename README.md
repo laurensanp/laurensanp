@@ -10,7 +10,7 @@ Ich interessiere mich für **Softwareentwicklung**, **Automatisierung** und **k�
 ## 🔧 Tech-Stack
 - `Python` | & | `JavaScript`
 - Machine Learning & KI
-- Tools: Git, Windows, Cursor (kein Vibecoder), Ollama, FFMPEG, LM Studio
+- Tools: Git, Windows, Cursor (kein Vibecoder), Ollama, FFMPEG, LM Studio und ich übe grade mit Vim.
 
 ## 📫 Kontakt
 - ✉️ laurens.andre.petzold@gmail.com
